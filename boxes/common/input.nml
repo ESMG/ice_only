@@ -117,7 +117,7 @@
 /
 
  &xgrid_nml
-            make_exchange_reproduce = .false.
+            make_exchange_reproduce = .true.
             interp_method = 'second_order'
 /
 
